@@ -1,5 +1,5 @@
 #First step import the media to access the Constructor
-import media
+import Class
 
 # Second step import fresh_tomatoes to access the open_movies_page function
 import fresh_tomatoes

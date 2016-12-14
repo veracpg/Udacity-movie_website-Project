@@ -4,7 +4,7 @@ import webbrowser
 
 #Creat a class with the correct arguments for each Instances
 class Movie():
-  #Constructor
+  """ ...DOCstring..."""
   def __init__(self, movie_title, movie_storyline, poster_image, trailer_youtube):
       self.title = movie_title
       self.storyline = movie_storyline
